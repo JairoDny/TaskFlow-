@@ -11,7 +11,7 @@ Aplicación para administrar tareas.
 -[Funcionalidades](#funcionalidades)
 -[Tecnologías](#dtecnologias)
 -[Instalación](#instalación)
--[UsoJairoDny/TaskFlow
+-[Uso](#uso)
 -[Contribuidores](#contribuidores)
 
 # Instalación
