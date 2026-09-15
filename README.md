@@ -1,9 +1,9 @@
 # TaskFlow 
 
 Aplicación para administrar tareas.
-! [GitHub last commit](https://img.shields.io/github/last-commit/JairoDny/TaskFlow)
-! [GitHub issues](https://img.shields.io/github/issues/JairoDny/TaskFlow)
-! [GitHub stars](https://img.shields.io/github/stars/JairoDny/TaskFlow)
+![GitHub last commit](https://img.shields.io/github/last-commit/JairoDny/TaskFlow)
+![GitHub issues](https://img.shields.io/github/issues/JairoDny/TaskFlow)
+![GitHub stars](https://img.shields.io/github/stars/JairoDny/TaskFlow)
 
 
 # Tabla de Contenidos:
