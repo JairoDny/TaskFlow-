@@ -1,6 +1,20 @@
 # TaskFlow 
 Aplicación para administrar tareas.
 
+# Tabla de Contenidos:
+-[Descripción](#descripción)
+-[Funcionalidades](#funcionalidades)
+-[Tecnologías](#dtecnologias)
+-[Instalación](#instalación)
+-[Uso](#uso)
+-[Contribuidores](#contribuidores)
+
+# Instalación
+1. Clonar el repositorio.
+2. Configurar la base de datos.
+3. Configurar las variables necesarias.
+4. Ejecutar la aplicación.
+
 # Lista de funcionalidades.
 - Organiza tareas en equipo.
 
